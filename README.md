@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/bethmij/bethmij/blob/main/Gray%20White%20Minimalist%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bethmi Jayamila</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
