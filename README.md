@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bethmij" alt="bethmij" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bethmij](https://github.com/bethmij)
 
